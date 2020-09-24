@@ -50,7 +50,7 @@ class Header extends React.PureComponent {
           text="Follow"
           onClick={this.handleFollow}
           customStyle={{
-            backgroundColor: 'blueviolet',
+            backgroundColor: '#033c93',
             marginRight: '10px',
           }}
         />
